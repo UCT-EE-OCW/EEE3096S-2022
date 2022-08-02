@@ -1,4 +1,4 @@
-# Prac 2 
+# Prac 1 
 Working with benchmarking and architecture specific optimisations.
 Special thanks to [KaliumPuceon](https://github.com/KaliumPuceon) for their contributions to the Threaded C implementation.
 
