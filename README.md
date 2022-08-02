@@ -1,4 +1,4 @@
-# EEE3096S-Pracs-2021
+# EEE3096S-Pracs-2022
 
 The Lab manual contains all details.
 
