@@ -1,5 +1,5 @@
 # Prac 1 
-Working with ADCs and PWM on the STM32 Discovery
+Working with Delays, RTCs and I2C on the STM32 Discovery
 
 ## Folder Contents
 #### EEE3096S_2022_Prac_2_Delays_and_I2C_Student_Version
