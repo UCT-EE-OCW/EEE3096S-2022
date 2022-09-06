@@ -9,3 +9,6 @@ The Lab manual contains all details.
 2. Workpackage 2
     - Tutorial: I2C, Epochs and Binary Coded Decimal
     - Prac: Intro to BCOS – Delays and I2C
+3. Workpackage 3
+    - Tutorial: ADC Metrics and PWM
+    - Prac: BCOS 2 - ADC, Interrupts and PWM
