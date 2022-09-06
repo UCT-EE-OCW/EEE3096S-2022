@@ -6,3 +6,6 @@ The Lab manual contains all details.
 1. Workpackage 1
     - Tutorial: Linux Basics, GDB
     - Prac: Benchmarking C vs Python with heterodyning
+2. Workpackage 2
+    - Tutorial: I2C, Epochs and Binary Coded Decimal
+    - Prac: Intro to BCOS – Delays and I2C
