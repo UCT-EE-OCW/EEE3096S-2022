@@ -1,4 +1,4 @@
-# Prac 3 
+# Prac 4 
 Working with Delays, RTCs and I2C on the STM32 Discovery
 
 ## Folder Contents
